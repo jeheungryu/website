@@ -10,8 +10,8 @@ baseurl:             ''
 # About/contact
 author:
   name:              Jeheung Ryu
-  url:               http://www.jeheungryu.com
-  email:             https://jeheungryu.github.io/website/
+  url:               https://jeheungryu.github.io/website/
+  email:             jeheung.ryu@gmail.com
 
 # Permalinks
 
