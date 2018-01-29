@@ -4,14 +4,14 @@
 title:               Jeheung Ryu
 tagline:             'Univ of Rochester'
 description:         'This is a personal website for Jeheung Ryu'
-url:                 'http://www.jeheungryu.com'
+url:                 'https://jeheungryu.github.io/website/'
 baseurl:             ''
 
 # About/contact
 author:
   name:              Jeheung Ryu
   url:               http://www.jeheungryu.com
-  email:             jeheung.ryu@gmail.com
+  email:             https://jeheungryu.github.io/website/
 
 # Permalinks
 
