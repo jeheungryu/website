@@ -19,19 +19,15 @@ Rochester, NY 14620 <br />
 ## **Education** 
 
 **University of Rochester**, Rochester, NY <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D., Political Science,   *expected* May 2019 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, Sally W. Thurston <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Methods, Comparative Politics  <br />
-{: style="font-size: 85%"}
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.A., Political Science, 2015
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,   *expected* 2018 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, Sally W. Thurston <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Methods, Comparative Politics  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.A.**, Political Science, 2015
 {: style="font-size: 85%"}
 
 **Seoul National University**, Seoul <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.P.P., Public Policy, 2012
-{: style="font-size: 85%"}
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.A., Political Science and Economics, 2009
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.P.P.**, Public Policy, 2012<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**B.A.**, Political Science and Economics, 2009
 {: style="font-size: 85%"}
 
 ## **Additional Education** 
@@ -45,15 +41,20 @@ Rochester, NY 14620 <br />
 - **Methodologies**: Bayeisan Inference, Ideal Point Estimation, Text Analysis, Latent Variable
 {: style="font-size: 85%"}
 
+## **Publication** 
+- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) *Review of International Organizations*, forthcoming. <br />
+{: style="font-size: 85%"}
+
 ## **Working Papers** 
-- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) conditionally accepted at *Review of International Organizations*. <br />
+
 - "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
+- "The Effect of Sanctions on Companies’ Foreign Direct Investment Decisions" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
 {: style="font-size: 85%"}
 
 
 ## **Works in Progress**
-- "The Effect of Sanctions on Companies’ Foreign Direct Investment Decisions" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
-- "Geopolitical Determinants of Korean Firms’ Foreign Direct Investment Decisions" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
+
+- "Opportunities and Challenges: Korean FDI and Host Countries" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
 - “Downgrading Rights: The Cost of Austerity During Financial Crises.”
 {: style="font-size: 85%"}
