@@ -9,6 +9,8 @@ title: Research
 {:toc}
 {: style="font-size: 85%"}
 
+---
+
 ## Published Article
 
 ### "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) | forthcoming at *<a href="https://link.springer.com/journal/11558" target="_blank">Review of International Organizations</a>*
@@ -16,6 +18,7 @@ title: Research
 Lobbying by multinational business firms drives the agenda of international trade politics. We match Fortune Global 500 firms to WTO disputes in which they have a stake and to their political activities using public disclosure data. The quantitative evidence reveals traces of a principal-agent relationship between major MNCs and the US Trade Representative (USTR). Firms lobby and make political contributions to induce the USTR to lodge a WTO dispute, and once a dispute begins, firms increase their political activity in order to keep USTR on track. Lobbying is overwhelmingly patriotic---the side opposing the US position is barely represented---and we see little evidence of MNCs lobbying against domestic protectionism. When the United States is targeted in a dispute, lobbying by defendant-side firms substantially delays settlement, as the affected firms pressure the government to reject concessions. Lobbying on the complainant side does not delay dispute resolution, as complainant-side firms have mixed incentives, to resolve disputes quickly as well as to hold out for better terms.
 {: style="font-size: 90%"}
 
+---
 
 ## Dissertation
 
