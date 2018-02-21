@@ -60,7 +60,7 @@ Rochester, NY 14620 <br />
 {: style="font-size: 85%"}
 
 ## **Grants and Scholarships** 
-- CIRTL@UR Teaching-as-Research (TAR) Fellowship (University of Rochester), 2018
+- Teaching-as-Research (TAR) Fellowship (University of Rochester), 2018
 - The Peter D. Watson Center for Conflict and Cooperation Grant, 2017
 - International Studies Association Travel Grant, 2017
 - American Political Science Association Travel Grant, 2016-2017
@@ -70,7 +70,7 @@ Rochester, NY 14620 <br />
 - Inter-University Consortium for Political and Social Research (ICPSR) Summer Program Funding (Institute of Humane Studies), 2016
 - Charles E. Lanni Research Fellowship (University of Rochester), 2013-2015
 - Graduate Student Instructor (Seoul National University), 2011-2013
-- Brain Korea 21 Scholarship (Korean Research Foundation), 2010-2011
+- Korean Research Foundation Scholarship, 2010-2011
 - Honors Scholarships (Seoul National University), 2008
 {: style="font-size: 85%"}
 
@@ -93,11 +93,11 @@ Rochester, NY 14620 <br />
 {: style="font-size: 85%"}
 
 ## **Presentations** 
-- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" presented at the Political Economy of International Organization Annual Conference, Bern, 2017; the American Political Science Association Annual Conference, San Francisco, 2017.
-- "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" presented at the American Political Science Association Annual Conference, San Francisco, 2017; the International Studies Association Annual Conference, Baltimore, 2017
+- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with Randall W. Stone) presented at the Political Economy of International Organization Annual Conference, Bern, 2017; the American Political Science Association Annual Conference, San Francisco, 2017.
+- "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with Hye-Sung Kim) presented at the American Political Science Association Annual Conference, San Francisco, 2017; the International Studies Association Annual Conference, Baltimore, 2017
 - "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?" presented at the American Political Science Association Annual Conference, Philadelphia, 2016; the International Studies Association Annual Conference, Atlanta, 2016; Midwest Political Science Association Annual Conference, Chicago, 2015.
 - "Downgrading Rights: The Costs of Austerity During Financial Crisis" presented at the Institute of Humane Society Graduate Colloquium, Orange, 2015.
-- "Examining Causal Mechanisms Between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis" presented at the Midwest Political Science Association Annual Conference, Chicago, 2014.
+- "Examining Causal Mechanisms Between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis" (Hye-Sung Kim) presented at the Midwest Political Science Association Annual Conference, Chicago, 2014.
 {: style="font-size: 85%"}
 
 ## **Programming Skills** 
