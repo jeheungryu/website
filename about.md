@@ -11,7 +11,7 @@ Harkness Hall, Room 333 <br />
 280 Hutchison Road <br />
 Box 270146 <br />
 Rochester, NY 14620 <br />
-{: style="font-size: 85%"}
+{: style="font-size: 90%"}
 
 
 <hr>
@@ -20,10 +20,10 @@ Rochester, NY 14620 <br />
 
 **University of Rochester**, Rochester, NY <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,   *expected* 2018 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, Sally W. Thurston <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Methods, Comparative Politics  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, and Sally W.<br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thurston (Biostatistics) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Methods, Comparative Politics  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.A.**, Political Science, 2015
-{: style="font-size: 85%"}
+{: style="font-size: 90%"}
 
 **Seoul National University**, Seoul <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.P.P.**, Public Policy, 2012<br />
@@ -38,7 +38,7 @@ Rochester, NY 14620 <br />
 
 ## **Research Interests** 
 - **International Relations**: International Political Economy, International Organizations, International Trade, Foreign Direct Investment, Economic Sanctions <br />
-- **Methodologies**: Bayeisan Inference, Ideal Point Estimation, Text Analysis, Latent Variable
+- **Methodologies**: Bayesian Inference, Ideal Point Estimation, Text Analysis, Latent Variable
 {: style="font-size: 85%"}
 
 ## **Publication** 
