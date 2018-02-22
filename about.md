@@ -45,17 +45,14 @@ Rochester, NY 14620 <br />
 - "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) *Review of International Organizations*, forthcoming. <br />
 {: style="font-size: 85%"}
 
-## **Working Papers** 
-
-- "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
-- "The Effect of Sanctions on Companies’ Foreign Direct Investment Decisions" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
-{: style="font-size: 85%"}
-
 
 ## **Works in Progress**
 
+- "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
+- "The Effect of Sanctions on Companies’ Foreign Direct Investment Decisions" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
 - "Opportunities and Challenges: Korean FDI and Host Countries" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
+- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
 - “Downgrading Rights: The Cost of Austerity During Financial Crises.”
 {: style="font-size: 85%"}
 
