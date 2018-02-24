@@ -44,9 +44,9 @@ Using an FTP client like [Filezilla](https://filezilla-project.org/), or [SSH on
 ## Teaching Assistant
 {: style="font-size: 90%"}
 
-- PSC/IR102: [Introduction to International Political Economy]({{"/assets/Syll_PSC102-S18.pdf" | absolute_url}}){:target="_blank"} (Randall Stone), Spring 2018.
-- PSC/IR270: [Mechanisms of International Relations]({{"/assets/PSC270-Goemans_s15.pdf" | absolute_url}}){:target="_blank"} (Hein Goemans), Spring 2016.
-- PSC/IR106: [Introduction to International Relations]({{"/assets/PSC106Abramson_f15.pdf" | absolute_url}}){:target="_blank"} (Scott Abramson), Fall 2015.
-- PSC/IR256: [Theories of Comparative Politics]({{"/assets/PSCIR256-Powell.pdf" | absolute_url}}){:target="_blank"} (G. Bingham Powell, Jr.), Spring 2015.
-- PSC/IR273: [The Politics of Terrorism]({{"/assets/PSCIR273-Lee.pdf" | absolute_url}}){:target="_blank"} (Alexander Lee), Fall 2014.
+- PSC/IR102: [Introduction to International Political Economy]({{"/assets/Syll_PSC102-S18.pdf" | absolute_url}}){:target="_blank"} (Randall Stone, Spring 2018)
+- PSC/IR270: [Mechanisms of International Relations]({{"/assets/PSC270-Goemans_s15.pdf" | absolute_url}}){:target="_blank"} (Hein Goemans, Spring 2016)
+- PSC/IR106: [Introduction to International Relations]({{"/assets/PSC106Abramson_f15.pdf" | absolute_url}}){:target="_blank"} (Scott Abramson, Fall 2015)
+- PSC/IR256: [Theories of Comparative Politics]({{"/assets/PSCIR256-Powell.pdf" | absolute_url}}){:target="_blank"} (G. Bingham Powell, Jr., Spring 2015)
+- PSC/IR273: [The Politics of Terrorism]({{"/assets/PSCIR273-Lee.pdf" | absolute_url}}){:target="_blank"} (Alexander Lee, Fall 2014)
 {: style="font-size: 87%"}
