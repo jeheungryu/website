@@ -42,7 +42,7 @@ Rochester, NY 14620 <br />
 {: style="font-size: 85%"}
 
 ## **Publication** 
-- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) *Review of International Organizations*, forthcoming. <br />
+- "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) *The Review of International Organizations*, 2018. 13(2): 273-308. <br />
 {: style="font-size: 85%"}
 
 
