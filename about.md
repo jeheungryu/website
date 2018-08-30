@@ -45,11 +45,14 @@ Rochester, NY 14620 <br />
 - "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) *The Review of International Organizations*, 2018. 13(2): 273-308. <br />
 {: style="font-size: 85%"}
 
+## **Working papers**
+
+- "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
+- "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
+- "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
 
 ## **Works in Progress**
 
-- "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
-- "The Effect of Sanctions on Companies’ Foreign Direct Investment Decisions" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
 - "Opportunities and Challenges: Korean FDI and Host Countries" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
 - "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
@@ -58,10 +61,10 @@ Rochester, NY 14620 <br />
 
 ## **Grants and Scholarships** 
 - Teaching-as-Research (TAR) Fellowship (University of Rochester), 2018
+- Humane Studies Fellowship (Institute for Humane Studies), 2015-2018
 - The Peter D. Watson Center for Conflict and Cooperation Grant, 2017
 - International Studies Association Travel Grant, 2017
 - American Political Science Association Travel Grant, 2016-2017
-- Humane Studies Fellowship (Institute for Humane Studies), 2015-2017
 - GSA’s Conference Travel Funding Award (University of Rochester) 2015, 2017
 - Hayek Fund for Scholars, (Institute for Humane Studies), 2014-2017
 - Inter-University Consortium for Political and Social Research (ICPSR) Summer Program Funding (Institute of Humane Studies), 2016
@@ -90,6 +93,7 @@ Rochester, NY 14620 <br />
 {: style="font-size: 85%"}
 
 ## **Presentations** 
+- "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with Eleva V. McLean and Taehee Whang) presented at the American Political Science Association Annual Conference, Boston, 2018.
 - "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with Randall W. Stone) presented at the Political Economy of International Organization Annual Conference, Bern, 2017; the American Political Science Association Annual Conference, San Francisco, 2017.
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with Hye-Sung Kim) presented at the American Political Science Association Annual Conference, San Francisco, 2017; the International Studies Association Annual Conference, Baltimore, 2017
 - "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?" presented at the American Political Science Association Annual Conference, Philadelphia, 2016; the International Studies Association Annual Conference, Atlanta, 2016; Midwest Political Science Association Annual Conference, Chicago, 2015.
