@@ -50,6 +50,7 @@ Rochester, NY 14620 <br />
 - "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
 - "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
+{: style="font-size: 85%"}
 
 ## **Works in Progress**
 
