@@ -19,9 +19,9 @@ Rochester, NY 14620 <br />
 ## **Education** 
 
 **University of Rochester**, Rochester, NY <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,   *expected* 2019 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *expected* May, 2019 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, and Sally W.<br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thurston (Biostatistics) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Methods, Comparative Politics  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Political Methodologies, Comparative Politics  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.A.**, Political Science, 2015
 {: style="font-size: 90%"}
 
