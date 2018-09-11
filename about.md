@@ -56,8 +56,9 @@ Rochester, NY 14620 <br />
 
 - "Corporate Lobbying, Industries Competition, and the Preferential Trade Agreements: Evidence from the U.S."
 - "IMF Conditionality and the Foreign Direct Investments." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
-- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
-- "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>)
+- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
+- "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
+{: style="font-size: 85%"}
 
 ## **Grants and Scholarships** 
 - Teaching-as-Research (TAR) Fellowship (University of Rochester), 2018
