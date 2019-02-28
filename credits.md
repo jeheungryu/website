@@ -22,7 +22,7 @@ Lobbying by multinational business firms drives the agenda of international trad
 
 ## Dissertation
 
-### [Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies]({{"/assets/JMP-Ryu.pdf" | absolute_url}}){:target="_blank"}
+### "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies." *(Available upon request)*
 
 In this chapter, I examine how domestic political forces affect the institutional design of preferential trade agreements (PTAs). What explains the variations in escape clauses in trade agreements? This article examines how agricultural support affects the design of preferential trade agreements (PTAs). I hypothesize that democratic political elites with survival incentives choose more flexible trade agreements as they are concerned more about domestic agricultural sectors. Flexible design of treaties enables members to shirk their contractual duties temporarily and can be often used as protectionist measures. To validate this argument, I construct a measure of flexibility using a Bayesian item response theory that treats flexibility as a latent characteristic of trade agreements. With this index and panel data covering 648 PTAs signed from 1948-2017, I find that political leaders are more likely to introduce flexibility provisions when entering into trade agreements as they confer more agricultural subsidies to farmers. In addition to providing a continuous index to measure PTA flexibility, the article introduces a robust predictor of trade agreement flexibility that has been overlooked in previous work.
 {: style="font-size: 90%"}
