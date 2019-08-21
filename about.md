@@ -19,9 +19,9 @@ Rochester, NY 14620 <br />
 ## **Education** 
 
 **University of Rochester**, Rochester, NY <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,  *(expected)* June, 2019 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,  *(expected)* May, 2020 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, and Sally W.<br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thurston (Biostatistics) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Political Methodologies, Comparative Politics  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Research Methods, Comparative Politics  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.A.**, Political Science, 2015
 {: style="font-size: 90%"}
 
@@ -47,28 +47,25 @@ Rochester, NY 14620 <br />
 
 ## **Working papers**
 
-- "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
-- "Third Parties as *Amicus Curiae*: Do They Contribute to the Legalization of the WTO?"
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
+- "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
+- "Third Parties as Special Interest Groups: Do They Contribute to the Legalization of the WTO?"
+- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
 {: style="font-size: 85%"}
 
 ## **Works in Progress**
 
-- "Corporate Lobbying, Industries Competition, and the Preferential Trade Agreements: Evidence from the U.S."
-- "IMF Conditionality and the Foreign Direct Investments." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
-- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
+- "The Internationalization of Korean FDI." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
+- "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
 {: style="font-size: 85%"}
 
 ## **Grants and Scholarships** 
-- Teaching-as-Research (TAR) Fellowship (University of Rochester), 2018
-- Humane Studies Fellowship (Institute for Humane Studies), 2015-2018
+- Teaching-as-Research (TAR) Fellowship (University of Rochester), 2019
 - The Peter D. Watson Center for Conflict and Cooperation Grant, 2017
 - International Studies Association Travel Grant, 2017
 - American Political Science Association Travel Grant, 2016-2017
 - GSA’s Conference Travel Funding Award (University of Rochester) 2015, 2017
-- Hayek Fund for Scholars, (Institute for Humane Studies), 2014-2017
-- Inter-University Consortium for Political and Social Research (ICPSR) Summer Program Funding (Institute of Humane Studies), 2016
 - Charles E. Lanni Research Fellowship (University of Rochester), 2013-2015
 - Graduate Student Instructor (Seoul National University), 2011-2013
 - Korean Research Foundation Scholarship, 2010-2011
@@ -80,7 +77,8 @@ Rochester, NY 14620 <br />
 ## Adjunct Instructor (University of Rochester)
 {: style="font-size: 85%"}
 
-- PSC/IR 106: [Introduction to International Relations]({{"/assets/PSCIR106-Ryu.pdf" | absolute_url}}){:target="_blank"}, Summer 2017, 2018.
+- ECA 012: Economics: Macroeconomics and Global Markets, 2019
+- PSC 106: [Introduction to International Relations]({{"/assets/PSCIR106-Ryu.pdf" | absolute_url}}){:target="_blank"}, 2017-2018.
 {: style="font-size: 85%"}
 
 ## Teaching Assistant
@@ -94,6 +92,9 @@ Rochester, NY 14620 <br />
 {: style="font-size: 85%"}
 
 ## **Presentations** 
+- "Providing Protection: Agricultural Support and the Flexibility of Preferential Trade Agreements in Democracies" presented at the virtual International Political Economy Society, 2019
+- "Providing Protection: Agricultural Support and the Flexibility of Preferential Trade Agreements in Democracies" presented at the International Studies Association Annual Conference, Toronto, 2019.
+- "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with Eleva V. McLean and Taehee Whang) presented at the International Studies Association Annual Conference, Toronto, 2019.
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with Eleva V. McLean and Taehee Whang) presented at the American Political Science Association Annual Conference, Boston, 2018.
 - "Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution" (with Randall W. Stone) presented at the Political Economy of International Organization Annual Conference, Bern, 2017; the American Political Science Association Annual Conference, San Francisco, 2017.
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with Hye-Sung Kim) presented at the American Political Science Association Annual Conference, San Francisco, 2017; the International Studies Association Annual Conference, Baltimore, 2017
