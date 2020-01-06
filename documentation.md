@@ -34,7 +34,7 @@ Using an FTP client like [Filezilla](https://filezilla-project.org/), or [SSH on
 ## Adjunct Instructor (University of Rochester)
 {: style="font-size: 90%"}
 
-- PSC/IR 106: [Introduction to International Relations]({{"/assets/PSCIR106-Ryu.pdf" | absolute_url}}){:target="_blank"}, Summer 2017, 2018. <br>
+- PSC/IR 106: [Introduction to International Relations]({{"/assets/PSCIR106-Ryu.pdf" | absolute_url}}){:target="_blank"}, 2017, 2018. <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Course Description**: This introductory course is designed to provide students with the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;history, background and analytical tools to understand and analyze contemporary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;international issues among states. The course will cover the wide range of issues 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;involved in the field of international relations including the modern theoretical debates &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;such as neorealism and neoliberalism, the causes and effects of international conflicts, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and economic development and globalization. In addition, we will explore important 
