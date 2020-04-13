@@ -19,7 +19,7 @@ Rochester, NY 14620 <br />
 ## **Education** 
 
 **University of Rochester**, Rochester, NY <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,  *(expected)* May, 2020 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ph.D.**, Political Science,  *(expected)* June, 2020 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Committee: Randall W. Stone (chair), David Primo, Kevin Clarke, and Sally W.<br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thurston (Biostatistics) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fields: International Relations, Research Methods, Comparative Politics  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**M.A.**, Political Science, 2015
@@ -38,7 +38,7 @@ Rochester, NY 14620 <br />
 
 ## **Research Interests** 
 - **International Relations**: International Political Economy, International Organizations, International Trade, Foreign Direct Investment, Economic Sanctions <br />
-- **Methodologies**: Bayesian Inference, Ideal Point Estimation, Text Analysis, Latent Variable
+- **Methodologies**: Bayesian Inference, Ideal Point Estimation, Text Mining, Latent Variable
 {: style="font-size: 85%"}
 
 ## **Publication** 
@@ -55,7 +55,7 @@ Rochester, NY 14620 <br />
 
 ## **Works in Progress**
 
-- "The Internationalization of Korean FDI." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
+- "Dirty Work and the Americanization of Korean Firms." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
 - "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
 {: style="font-size: 85%"}

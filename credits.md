@@ -41,7 +41,7 @@ The WTO judicial bodies face dual obstacles because of their limited legal autho
 
 ---
 
-## Works in Progress
+## Working Papers
 
 ### "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>) *(Available upon request)*
 
@@ -49,9 +49,9 @@ Countries resort to economic coercion to compel other countries to change their 
 {: style="font-size: 90%"}
 
 
-### "The Internationalization of Korean FDI" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>)
+### "Dirty Work and the Americanization of Korean Firms" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>)
 
-When the Asian Financial Crisis hit South Korea in 1997 the International Monetary Fund imposed financial conditionality that liberalized key features of Korean financial policy and opened up protected sectors to foreign direct investment. In the years that followed, Korean firms acquired international affiliates and drastically expanded their foreign operations, becoming globally integrated multinationals. To what degree is this attributable to the liberalization of the policy framework for outward FDI, and to what degree is this attributable to the influence of foreign investors who took stakes in leading Korean firms?  We use a unique set of firm-level data and matching to tease out this relationship, and find that the globalization of Korean firms is due to foreign ownership stakes.  Furthermore, we use firm-level location decisions to show that in important respects, the Korean multinationals with substantial foreign ownership behave like hybrid or foreign firms, rather than like Korean firms.  The implication is that the nationality of today’s MNCs, while an important variable, is increasingly plastic and problematic in practice.
+The Korean IMF program of 1997 opened the financial sector, and firms that were targets of foreign mergers and acquisitions went global in the ensuing years. In the process, their Korean identity was diluted and their investment strategies became guided by their American co-owners. We trace patterns attributable to firm nationality in firm-level location decisions for foreign investment (Mosley 2011, Wellhausen 2015), finding that Korean firms prefer to invest in countries with strong property rights, close diplomatic and trade relations with Korea, robust labor rights and weak environmental protection. These patterns shift when Korean firms have been targets of US foreign mergers and acquisitions. These Korean-American firms are not attracted by close diplomatic or trade relations with Korea, but are attracted by close relations with the United States. In addition, they exhibit a reverse corporate social responsibility effect, which we describe as a “dirty work” effect: Korean-American firms prefer to invest in countries with authoritarian politics, weak property rights, weak labor rights, and very weak environmental protection. We argue that US firms invest in Korea in order to use Korean firms as platforms for socially irresponsible corporate investing, using these intermediaries to do their dirty work, which allows them to insulate their own brands from the reputational damage that such investments might entail. Meanwhile, patterns of socially irresponsible Korean investing appear to be driven by firms with substantial US investor participation.
 {: style="font-size: 90%"}
 
 
