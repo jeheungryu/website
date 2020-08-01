@@ -49,7 +49,8 @@ Rochester, NY 14620 <br />
 
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
 - "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
-- "Third Parties as Special Interest Groups: Do They Contribute to the Legalization of the WTO?"
+- "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
+- "WTO Disputes and Friends of the Court"
 - "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
 {: style="font-size: 85%"}
 
@@ -57,7 +58,7 @@ Rochester, NY 14620 <br />
 
 - "Dirty Work and the Americanization of Korean Firms." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
-- "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
+- 
 {: style="font-size: 85%"}
 
 ## **Grants and Scholarships** 
