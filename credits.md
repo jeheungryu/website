@@ -7,36 +7,10 @@ title: Research
 
 ### Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>) | *<a href="https://link.springer.com/journal/11558" target="_blank">The Review of International Organizations</a>* 2018. 13(2): 273-308.
 
-
-<li>
-<details style="text-align: justify;font-size: 85%">
-    <summary>Abstract</summary>
-Lobbying by multinational business firms drives the agenda of international trade politics. We match Fortune Global 500 firms to WTO disputes in which they have a stake and to their political activities using public disclosure data. The quantitative evidence reveals traces of a principal-agent relationship between major MNCs and the US Trade Representative (USTR). Firms lobby and make political contributions to induce the USTR to lodge a WTO dispute, and once a dispute begins, firms increase their political activity in order to keep USTR on track. Lobbying is overwhelmingly patriotic---the side opposing the US position is barely represented---and we see little evidence of MNCs lobbying against domestic protectionism. When the United States is targeted in a dispute, lobbying by defendant-side firms substantially delays settlement, as the affected firms pressure the government to reject concessions. Lobbying on the complainant side does not delay dispute resolution, as complainant-side firms have mixed incentives, to resolve disputes quickly as well as to hold out for better terms.
-</details>
-<a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank" class="boxlink">Data</a>
-<a href="/assets/2018Rio_RyuStone.pdf" target="_blank" class="boxlink">pdf</a>
+<li style="text-align:right">
+<a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank" class="boxlink">[data]</a>
+<a href="/assets/2018Rio_RyuStone.pdf" target="_blank" class="boxlink">[pdf]</a>
 </li>
-
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<div class="container">
-  <h2>Simple Collapsible</h2>
-  <p>Click on the button to toggle between showing and hiding content.</p>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
-  <div id="demo" class="collapse">
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </div>
-</div>
-</body>
 
 ---
 
