@@ -5,14 +5,12 @@ title: Curriculum Vitae
 
 [![Foo]({{"/assets/icon-cv1.png" | absolute_url}} "Download CV" )]({{"/assets/CV_Jeheung_Ryu.pdf" | absolute_url}}){:target="_blank"}{: img style="float: right;"}
 
-Department of Political Science <br />
-University of Rochester <br />
-Harkness Hall, Room 333 <br />
-280 Hutchison Road <br />
-Box 270146 <br />
-Rochester, NY 14620 <br />
+Niehaus Center for Globalization and Governance <br />
+Robertson Hall <br />
+Princeton, NJ 08544-1013</p>
 {: style="font-size: 90%"}
 
+            
 
 <hr>
 
