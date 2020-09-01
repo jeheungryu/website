@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 Niehaus Center for Globalization and Governance <br />
 Robertson Hall <br />
-Princeton, NJ 08544-1013</p>
+Princeton, NJ 08544-1013 <br />
 {: style="font-size: 90%"}
 
             
