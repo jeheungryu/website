@@ -5,7 +5,8 @@ title: Curriculum Vitae
 
 [![Foo]({{"/assets/icon-cv1.png" | absolute_url}} "Download CV" )]({{"/assets/CV_Jeheung_Ryu.pdf" | absolute_url}}){:target="_blank"}{: img style="float: right;"}
 
-Niehaus Center for Globalization and Governance <br />
+Niehaus Center for <br />
+Globalization and Governance <br />
 Robertson Hall <br />
 Princeton, NJ 08544-1013 <br />
 {: style="font-size: 90%"}
@@ -17,7 +18,7 @@ Princeton, NJ 08544-1013 <br />
 ## **Academic Appointments**
 
 **Princeton University**, Princeton, NJ <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, Niehaus Center for Globalization and Governance <a style="float:right">Sep. 2020 - present</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, Niehaus Center for Globalization and Governance <p style="float:right">Sep. 2020 - present</p>
 
 ## **Education** 
 
