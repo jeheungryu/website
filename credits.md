@@ -9,7 +9,7 @@ title: Research
 {: style="font-size: 90%"} 
 
 <li style="text-align:right">
-<a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank" class="boxlink">[data]</a> 
+<a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank">[data]</a> 
 <a href="/assets/2018Rio_RyuStone.pdf" target="_blank" class="boxlink">[pdf]</a>
 </li>
 
