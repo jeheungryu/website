@@ -6,12 +6,22 @@ title: Research
 ## Publications
 
 ### Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution (with Randall Stone) | *The Review of International Organizations.*  2018. 13(2): 273-308.
+{: style="font-size: 90%"}
 <a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank" style="float:right">[pdf]</a><a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank" style="float:right">[data]</a>
+
 
 
 ---
 
-## Dissertation
+## Working Papers
+
+### "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with Elena V. McLean and Taehee Whang)
+{: style="font-size: 90%"}
+
+<details style="text-align:justify">
+<summary>Abstract</summary>
+Countries resort to economic coercion to compel other countries to change their policies. The success of this strategy depends on the size of economic costs that sanctioners can impose on their opponents by distorting trade and financial flows. Yet, existing studies indicate that governments and companies can adjust to such distortions, thereby reducing effectiveness of economic coercion. Specifically, research on sanctions’ effect on foreign direct investment indicates that sanctioning countries’ companies reduce their investments in targeted countries only temporarily, whereas companies from third-party countries take advantage of this temporary reduction by increasing their investment levels in targeted countries. The key limitation of this research, however, is its country-level focus, which fails to capture company-level decisionmaking processes and factors shaping them. In this paper, we consider how sanctions affect companies’ decisions to invest in a targeted country and how companies respond to the risk of investment substitution from third-party countries. We investigate effects of sanctions announced by companies’ home governments, as well as other governments, and consider varying responses of companies in different economic sectors. To keep our models tractable, we concentrate on one sanctioned country, Russia, and use monthly data on nearly 3,000 companies from 77 countries to evaluate companies’ decisions to invest in Russia’s economy, from January 2003 to September 2017. This period includes a series of sanctions imposed against Russia by the US, EU members and other countries, as well as Russian counter-sanctions. Our results show that sanctions reduce the likelihood of new investments in Russia.
+</details>
 
 ### "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies." 
 
@@ -32,12 +42,7 @@ The WTO judicial bodies face dual obstacles because of their limited legal autho
 
 ---
 
-## Working Papers
 
-### "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>) *(Available upon request)*
-
-Countries resort to economic coercion to compel other countries to change their policies. The success of this strategy depends on the size of economic costs that sanctioners can impose on their opponents by distorting trade and financial flows. Yet, existing studies indicate that governments and companies can adjust to such distortions, thereby reducing effectiveness of economic coercion. Specifically, research on sanctions’ effect on foreign direct investment indicates that sanctioning countries’ companies reduce their investments in targeted countries only temporarily, whereas companies from third-party countries take advantage of this temporary reduction by increasing their investment levels in targeted countries. The key limitation of this research, however, is its country-level focus, which fails to capture company-level decisionmaking processes and factors shaping them. In this paper, we consider how sanctions affect companies’ decisions to invest in a targeted country and how companies respond to the risk of investment substitution from third-party countries. We investigate effects of sanctions announced by companies’ home governments, as well as other governments, and consider varying responses of companies in different economic sectors. To keep our models tractable, we concentrate on one sanctioned country, Russia, and use monthly data on nearly 3,000 companies from 77 countries to evaluate companies’ decisions to invest in Russia’s economy, from January 2003 to September 2017. This period includes a series of sanctions imposed against Russia by the US, EU members and other countries, as well as Russian counter-sanctions. Our results show that sanctions reduce the likelihood of new investments in Russia.
-{: style="font-size: 90%"}
 
 
 ### "Dirty Work and the Americanization of Korean Firms" (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>)
