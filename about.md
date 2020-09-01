@@ -14,6 +14,11 @@ Princeton, NJ 08544-1013 <br />
 
 <hr>
 
+## **Academic Appointments**
+
+**Princeton University**, Princeton, NJ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, Niehaus Center for Globalization and Governance <a style="float:right">Sep. 2020 - present</a>
+
 ## **Education** 
 
 **University of Rochester**, Rochester, NY <br />
