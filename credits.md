@@ -5,13 +5,16 @@ title: Research
 
 ## Publications
 
-### Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution (with Randall Stone) | *The Review of International Organizations* 2018. 13(2): 273-308.
-{: style="font-size: 90%"} 
+<a style="text-align:justify"> Plaintiffs by Proxy: A Firm-level Appraoch to WTO Dispute Resolution (with Randall Stone) | *The Review of International Organizations*  2018. 13(2): 273-308. <a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank">[pdf]</a><a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank">[data]</a><a href="/assets/2018Rio_RyuStone.pdf" target="_blank" class="boxlink">[pdf]</a></a>
+
 
 <li style="text-align:right">
 <a href="http://www.sas.rochester.edu/psc/stone/data.html" target="_blank">[data]</a> 
 <a href="/assets/2018Rio_RyuStone.pdf" target="_blank" class="boxlink">[pdf]</a>
 </li>
+{: style="font-size: 90%"} 
+
+
 
 
 ---
