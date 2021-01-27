@@ -53,17 +53,17 @@ Princeton, NJ 08544-1013 <br />
 ## **Working papers**
 
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a> and <a href="https://yonsei.academia.edu/TaeheeWhang" target="_blank">Taehee Whang</a>).
+- "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
 - "Dirty Work and the Americanization of Korean Firms." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
 - "Providing Protection: Agricultural Support and Flexibility of Preferential Trade Agreements in Democracies."
-- "Geographic locations, Corporate Lobbying and Trade Remedies: Evidence from the U.S."
-- "WTO Disputes and Friends of the Court"
-- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
+- "WTO Disputes and Friends of the Court: How do Third parties Influence Trade Disputes?"
 {: style="font-size: 85%"}
 
 ## **Works in Progress**
 
-- "Predicting FDI Inflows: Exploring a Non-linear Relationship Between Peace Years, Natural Resources, and Rule of Law" (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
-- 
+- "World Bank Projects and Multinational Corporations." (with <a href="http://www.sas.rochester.edu/psc/stone/index.html" target="_blank">Randall W. Stone</a>).
+- "The Effects of Chinese FDI on Political Leaders' Approval in Host Countries." (with <a href="https://elenamclean.weebly.com/" target="_blank">Elena V. McLean</a>)
+- "Examining Causal Mechanisms between Ethnic Diversity and Public Goods Provision: A Conjoint Analysis." (with <a href="http://www.hyesungkim.org/" target="_blank">Hye-Sung Kim </a>).
 {: style="font-size: 85%"}
 
 ## **Grants and Scholarships** 
@@ -98,6 +98,7 @@ Princeton, NJ 08544-1013 <br />
 {: style="font-size: 85%"}
 
 ## **Presentations** 
+- "Dirty Work and the Americanization of Korean Firms" presented at the International Political Economy Society, 2020 
 - "Providing Protection: Agricultural Support and the Flexibility of Preferential Trade Agreements in Democracies" presented at the virtual International Political Economy Society, 2019
 - "Providing Protection: Agricultural Support and the Flexibility of Preferential Trade Agreements in Democracies" presented at the International Studies Association Annual Conference, Toronto, 2019.
 - "The Effect of Economic Sanctions on Companies’ Foreign Direct Investment Decisions: The Case of Sanctions against Russia" (with Eleva V. McLean and Taehee Whang) presented at the International Studies Association Annual Conference, Toronto, 2019.
